@@ -44,7 +44,7 @@
 
 <p>(3) Die Abstimmungen finden im Fraktionstool Redmine statt.</p>
 
-<p>(4) Umlaufbeschlüsse gelten als gefasst, sobald vor Ablauf der gesetzten Frist 11 Fraktionsmitglieder dafür oder 11 Fraktionsmitglieder dagegen gestimmt haben. Sollte die Frist verstreichen, ohne dass 11 Fraktionsmitglieder dafür oder dagegen gestimmt haben, wird der Beschlussgegenstand Teil der TO der nächsten, ordentlichen Fraktionssitzung.</p>
+<p>(4) Umlaufbeschlüsse gelten als gefasst, sobald vor Ablauf der gesetzten Frist 10 Fraktionsmitglieder dafür oder 10 Fraktionsmitglieder dagegen gestimmt haben. Sollte die Frist verstreichen, ohne dass 10 Fraktionsmitglieder dafür oder dagegen gestimmt haben, wird der Beschlussgegenstand Teil der TO der nächsten, ordentlichen Fraktionssitzung.</p>
 
 <h2>Hinweise</h2>
 
